@@ -1,0 +1,28 @@
+C:\Users\User\workspace\ED_Pilha\bin\Debug\net9.0\ED_Pilha.exe
+C:\Users\User\workspace\ED_Pilha\bin\Debug\net9.0\ED_Pilha.deps.json
+C:\Users\User\workspace\ED_Pilha\bin\Debug\net9.0\ED_Pilha.runtimeconfig.json
+C:\Users\User\workspace\ED_Pilha\bin\Debug\net9.0\ED_Pilha.dll
+C:\Users\User\workspace\ED_Pilha\bin\Debug\net9.0\ED_Pilha.pdb
+C:\Users\User\workspace\ED_Pilha\obj\Debug\net9.0\ED_Pilha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\workspace\ED_Pilha\obj\Debug\net9.0\ED_Pilha.AssemblyInfoInputs.cache
+C:\Users\User\workspace\ED_Pilha\obj\Debug\net9.0\ED_Pilha.AssemblyInfo.cs
+C:\Users\User\workspace\ED_Pilha\obj\Debug\net9.0\ED_Pilha.csproj.CoreCompileInputs.cache
+C:\Users\User\workspace\ED_Pilha\obj\Debug\net9.0\ED_Pilha.dll
+C:\Users\User\workspace\ED_Pilha\obj\Debug\net9.0\refint\ED_Pilha.dll
+C:\Users\User\workspace\ED_Pilha\obj\Debug\net9.0\ED_Pilha.pdb
+C:\Users\User\workspace\ED_Pilha\obj\Debug\net9.0\ED_Pilha.genruntimeconfig.cache
+C:\Users\User\workspace\ED_Pilha\obj\Debug\net9.0\ref\ED_Pilha.dll
+C:\Users\User\Desktop\Estudo Dirigido - TAD Pilha\ED_Pilha\bin\Debug\net9.0\ED_Pilha.exe
+C:\Users\User\Desktop\Estudo Dirigido - TAD Pilha\ED_Pilha\bin\Debug\net9.0\ED_Pilha.deps.json
+C:\Users\User\Desktop\Estudo Dirigido - TAD Pilha\ED_Pilha\bin\Debug\net9.0\ED_Pilha.runtimeconfig.json
+C:\Users\User\Desktop\Estudo Dirigido - TAD Pilha\ED_Pilha\bin\Debug\net9.0\ED_Pilha.dll
+C:\Users\User\Desktop\Estudo Dirigido - TAD Pilha\ED_Pilha\bin\Debug\net9.0\ED_Pilha.pdb
+C:\Users\User\Desktop\Estudo Dirigido - TAD Pilha\ED_Pilha\obj\Debug\net9.0\ED_Pilha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Estudo Dirigido - TAD Pilha\ED_Pilha\obj\Debug\net9.0\ED_Pilha.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Estudo Dirigido - TAD Pilha\ED_Pilha\obj\Debug\net9.0\ED_Pilha.AssemblyInfo.cs
+C:\Users\User\Desktop\Estudo Dirigido - TAD Pilha\ED_Pilha\obj\Debug\net9.0\ED_Pilha.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Estudo Dirigido - TAD Pilha\ED_Pilha\obj\Debug\net9.0\ED_Pilha.dll
+C:\Users\User\Desktop\Estudo Dirigido - TAD Pilha\ED_Pilha\obj\Debug\net9.0\refint\ED_Pilha.dll
+C:\Users\User\Desktop\Estudo Dirigido - TAD Pilha\ED_Pilha\obj\Debug\net9.0\ED_Pilha.pdb
+C:\Users\User\Desktop\Estudo Dirigido - TAD Pilha\ED_Pilha\obj\Debug\net9.0\ED_Pilha.genruntimeconfig.cache
+C:\Users\User\Desktop\Estudo Dirigido - TAD Pilha\ED_Pilha\obj\Debug\net9.0\ref\ED_Pilha.dll

@@ -26,3 +26,4 @@ C:\Users\User\Desktop\Estudo Dirigido - TAD Pilha\ED_Pilha\obj\Debug\net9.0\refi
 C:\Users\User\Desktop\Estudo Dirigido - TAD Pilha\ED_Pilha\obj\Debug\net9.0\ED_Pilha.pdb
 C:\Users\User\Desktop\Estudo Dirigido - TAD Pilha\ED_Pilha\obj\Debug\net9.0\ED_Pilha.genruntimeconfig.cache
 C:\Users\User\Desktop\Estudo Dirigido - TAD Pilha\ED_Pilha\obj\Debug\net9.0\ref\ED_Pilha.dll
+C:\Users\User\Desktop\Estudo Dirigido - TAD Pilha\ED_Pilha\obj\Debug\net9.0\ED_Pilha.sourcelink.json

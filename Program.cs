@@ -4,6 +4,6 @@
     {
         Console.WriteLine("Estudo Dirigido - TAD Pilha");
 
-        BubblePilhas.Executar();
+        OrdenarPilha.Executar();
     }
 }
